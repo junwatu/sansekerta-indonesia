@@ -6,36 +6,37 @@ abah
 
 abang : merah
 
-abi : lebih, bagus, baik;
+abi : lebih, bagus, baik
 
-abicara : santet;
+abicara : santet
 
-abicaraka : santet;
+abicaraka : santet
 
-abilasa : hawa nafsu;
+abilasa : hawa nafsu
 
-abimana : congkak, sombong;
+abimana : congkak, sombong
 
-abimantrana : restu, berkah;
+abimantrana : restu, berkah
 
-abimata : 1 hormat; 2 bijaksana;
+abimata : hormat, bijaksana
 
-abinawa:mengagumkan, terpuji;
+abinawa : mengagumkan, terpuji
 
-abipraya : cita-cita;
+abipraya : cita-cita
 
-abirama : selaras, serasi;
+abirama : selaras, serasi
 
-abirawa : repot, menyusahkan;
+abirawa : repot, menyusahkan
 
-abirupa : cantik, indah;
+abirupa : cantik, indah
 
-abisatya : teman setia, sahabat karib;
+abisatya : teman setia, sahabat karib
 
-abiséka : wisuda, penobatan; 
-abiwada : penghargaan;
+abiséka : wisuda, penobatan
 
-abiwara : pelajaran;
+abiwada : penghargaan
+
+abiwara : pelajaran
 
 abiyasa : pandai, bijak
 
@@ -45,11 +46,11 @@ abur : terbang, melayang
 
 acala : bukit, gunung
 
-acara : acara; ngacarani : menyusun acara, menyambut
+acara : acara, ngacarani, menyusun acara, menyambut
 
 acitya : ilmu pengetahuan
 
-ada : gagasan, prakarsa; ada-ada : memprakarsai, mempelopori
+ada : gagasan, prakarsa, ada-ada, memprakarsai, mempelopori
 
 adaka : banteng
 
@@ -63,9 +64,11 @@ adara : penghormatan, pujian
 
 adarma : mengabdi, berjuang
 
-adas : nama tumbuhan obat; adas pula waras : jenis tumbuhan untuk jamu
+adas : nama tumbuhan obat, adas pula waras, jenis tumbuhan untuk jamu
 
-adeg : berdiri, tegak; ngadeg : berdiri; adeg-adeg : 1 tongkat yang ditancapkan sebagai tanda; 2 tanda alenia dalam tulisan Jawa
+adeg : berdiri, tegak, berdiri
+
+adeg-adeg : tongkat yang ditancapkan sebagai tanda,tanda alenia dalam tulisan Jawa
 
 adha : tangga
 
