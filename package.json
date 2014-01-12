@@ -1,0 +1,27 @@
+{
+  "name": "sansekerta-indonesia",
+  "version": "0.0.1-alpha",
+  "description": "Sansekerta - Indonesia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cahangon/sansekerta-indonesia.git"
+  },
+  "keywords": [
+    "sansekerta",
+    "bahasa",
+    "indonesia",
+    "search",
+    "text",
+    "dictionary"
+  ],
+  "author": "Cah Angon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cahangon/sansekerta-indonesia/issues"
+  },
+  "homepage": "https://github.com/cahangon/sansekerta-indonesia"
+}
