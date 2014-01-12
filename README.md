@@ -1,0 +1,2 @@
+kamus-sansekerta-indonesia
+==========================
