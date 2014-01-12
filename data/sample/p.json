@@ -1,0 +1,16 @@
+{
+        "p1": {
+            "sansekerta": "prambayun",
+            "bahasa": ["sulung", "pertama"]
+        },
+
+        "p2": {
+            "sansekerta": "pramila",
+            "bahasa": ["maka", "oleh karena itu"]
+        },
+
+        "p3": {
+            "sansekerta": "pramodya",
+            "bahasa": ["pemuda", "taruna"]
+        }
+}
