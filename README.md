@@ -10,13 +10,18 @@ kata Sansekerta ke kata Bahasa Indonesia atau sebaliknya melalui layanan online.
 
 Cara Berkontribusi
 ------------------
+
+###Umum
+
 Silahkan berkontribusi apa saja asalkan masih berhubungan dengan project ini. Misalnya perbaikan kata kata yang ada di berkas 
 
     data/Sansekerta-Indonesia.txt
     
-Cara berkontribusi yaitu tulis pertanyaan atau perbaikan melalui   https://github.com/cahangon/kamus-sansekerta-indonesia/issues
+Cara berkontribusi yaitu tulis pertanyaan, saran atau perbaikan melalui   https://github.com/cahangon/sansekerta-indonesia/issues
 
-Untuk para developer silahkan fork repo ini dan pull request jika ada issue.
+###Developer
+
+Silahkan fork repo ini dan pull request jika ada issue.
 
 
 ----------
