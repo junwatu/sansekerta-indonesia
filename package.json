@@ -1,31 +1,34 @@
 {
-    "name": "sansekerta-indonesia",
-    "version": "0.0.1-alpha",
-    "description": "Sansekerta - Indonesia",
-    "main": "app.js",
-    "scripts": {
-        "start": "node app.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/cahangon/sansekerta-indonesia.git"
-    },
-    "keywords": [
-        "sansekerta",
-        "bahasa",
-        "indonesia",
-        "search",
-        "text",
-        "dictionary"
-    ],
-    "author": "Cah Angon",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/cahangon/sansekerta-indonesia/issues"
-    },
-    "homepage": "https://github.com/cahangon/sansekerta-indonesia",
-    "devDependencies": {
-        "search-index": "~0.2.21"
-    }
+  "name": "sansekerta-indonesia",
+  "version": "0.0.1-alpha",
+  "description": "Sansekerta - Indonesia",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cahangon/sansekerta-indonesia.git"
+  },
+  "keywords": [
+    "sansekerta",
+    "bahasa",
+    "indonesia",
+    "search",
+    "text",
+    "dictionary"
+  ],
+  "author": "Cah Angon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cahangon/sansekerta-indonesia/issues"
+  },
+  "homepage": "https://github.com/cahangon/sansekerta-indonesia",
+  "devDependencies": {
+    "search-index": "~0.2.21",
+    "express": "~3.4.7",
+    "jasmine-node": "~1.12.0",
+    "nconf": "~0.6.9"
+  }
 }
