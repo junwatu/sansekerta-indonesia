@@ -1,4 +1,7 @@
 {
+    "api": {
+        "version": "1.0"
+    },
     "server":{
         "port": 2113
     }
