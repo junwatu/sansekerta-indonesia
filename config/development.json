@@ -4,5 +4,8 @@
     },
     "server":{
         "port": 2112
+    },
+    "data":{
+        "sample":"data/sample/p.json"
     }
 }
