@@ -25,10 +25,12 @@
     "url": "https://github.com/cahangon/sansekerta-indonesia/issues"
   },
   "homepage": "https://github.com/cahangon/sansekerta-indonesia",
+  "dependencies":{
+        "search-index": ">=0.2.21",
+        "express": ">=3.4.7",
+        "nconf": ">=0.6.9"
+    },
   "devDependencies": {
-    "search-index": "~0.2.21",
-    "express": "~3.4.7",
-    "jasmine-node": "~1.12.0",
-    "nconf": "~0.6.9"
+    "jasmine-node": "~1.12.0"
   }
 }
