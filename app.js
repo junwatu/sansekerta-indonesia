@@ -2,7 +2,6 @@
  *  Sansekerta-Indonesia
  *  ++++++++++++++++++++++
  *
- *  Application Server
  *
  Copyright (c) 2014 Cah Angon
 
@@ -25,30 +24,4 @@
 
  */
 
-var searchEngine = require('search-index'),
-    fs = require('fs'),
-    batchFileName = 'data/sample/p.json',
-    facets = ['sansekerta', 'bahasa'],
-    batch = null;
-
-fs.readFile(batchFileName, 'utf8', function (err, data) {
-    if (err) {
-        console.log('Error: ' + err);
-    }
-
-    batch = data;
-
-    searchEngine.index(batch, batchFileName, facets, function (msg) {
-        console.log(msg);
-    });
-});
-
-// Test Query
-var query = {
-    "query": ['prambayun'],
-    "facets": ["bahasa"]
-};
-
-searchEngine.search(query, function (result) {
-    console.log(result);
-});
+module.exports = require('./lib/pancer.js');
