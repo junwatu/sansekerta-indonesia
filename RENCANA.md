@@ -13,6 +13,7 @@ Tentang instalasi, dokumentasi API & Penggunaan API.
 > **CATATAN:**
 > Fitur- fitur berikut masih dalam tahap perencanaan dan bisa berubah sewaktu. Silahkan bekontribusi.
 
+ - CLI Tool.
  - Role dan autentikasi untuk admin, user atau 3rd party pengguna API.
  - Editor untuk perbaikan, penambahan, perubahan kata - kata.
  - UI untuk admin.
