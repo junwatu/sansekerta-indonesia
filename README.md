@@ -13,11 +13,12 @@ Penggunaan
 
 ###REST API
 
+####search
 `/api/search/:query`
 
 API ini berfungsi untuk mencari arti kata Sansekerta ke dalam Bahasa Indonesia.
 
-> CATATAN : Keluaran query masih belum dalam bentuk JSON kasar.
+> CATATAN : Keluaran query masih dalam bentuk JSON kasar.
 
 Penggunaanya seperti berikut (memakai [httpie][1]), misalnya untuk mencari arti kata sansekerta `pramodya`
 
@@ -58,6 +59,16 @@ Penggunaanya seperti berikut (memakai [httpie][1]), misalnya untuk mencari arti 
         }
     }
 
+
+####search-engine
+
+#####init
+
+    `/api/search-engine/init`
+
+API ini berfungsi untuk meng-inisialisasi search engine agar membuat index dari berkas dan dimasukkan ke database.
+
+> TODO: Diperlukan autentikasi khusus untuk operasi ini.
 
 
 Branch
