@@ -28,7 +28,8 @@
   "dependencies": {
     "search-index": ">=0.2.21",
     "express": ">=3.4.7",
-    "nconf": ">=0.6.9"
+    "nconf": ">=0.6.9",
+    "commander": ">=2.1.0"
   },
   "devDependencies": {
     "mocha": "~1.17.0",
