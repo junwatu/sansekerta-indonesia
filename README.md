@@ -78,6 +78,12 @@ Pengembangan aktif aplikasi ini berada dalam branch `develop`. Untuk checkout ko
     git clone https://github.com/cahangon/sansekerta-indonesia.git -b develop
 
 
+Fitur & Rencana
+---------------
+
+Lihat [Fitur & Rencana][2]
+
+
 Cara Berkontribusi
 ------------------
 
@@ -127,3 +133,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
   [1]: https://github.com/jkbr/httpie
+  [2]: https://github.com/cahangon/sansekerta-indonesia/blob/develop/RENCANA.md
