@@ -3,7 +3,7 @@ Tujuan di buat aplikasi ini adalah untuk memudahkan pencarian dan pengartian
 kata Sansekerta ke kata Bahasa Indonesia atau sebaliknya melalui layanan online.
 
 
-> CATATAN: Sedang dalam proses pengembangan aktif.
+> CATATAN: **MASIH DALAM PENGEMBANGAN AKTIF**.
 
 
 Penggunaan
@@ -70,12 +70,6 @@ API ini berfungsi untuk meng-inisialisasi search engine agar membuat index dari 
 > TODO: Diperlukan autentikasi khusus untuk operasi ini.
 
 
-Branch
-------
-
-Pengembangan aktif aplikasi ini berada dalam branch `develop`. Untuk checkout kode sumber pada branch ini ketik perintah berikut
-
-    git clone https://github.com/cahangon/sansekerta-indonesia.git -b develop
 
 
 Fitur & Rencana
@@ -99,6 +93,18 @@ Cara berkontribusi yaitu tulis pertanyaan, saran atau perbaikan melalui   https:
 
 Silahkan fork repo ini dan pull request jika ada issue.
 
+
+####Branch
+
+Pengembangan aktif aplikasi ini berada dalam branch `develop`. Untuk checkout kode sumber pada branch ini ketik perintah berikut
+
+    git clone https://github.com/cahangon/sansekerta-indonesia.git -b develop
+
+####Data
+
+Format sumber data yang akan di index oleh search engine adalah dalam bentuk file JSON. Terletak pada folder `data`.
+
+> TODO: Format file data JSON
 
 ----------
 
